@@ -11,14 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Redux 공식 문서
 redux 공식문서 [redux.js.org](https://ko.redux.js.org)
 
-## redux  코어 설치
+## Redux Quick Start
+빠른 시작하기 [https://ko.redux.js.org](https://ko.redux.js.org/tutorials/quick-start)
+
+## redux  Counter Sample Sandbox
 counter sample [counter sample](https://codesandbox.io/s/github/reduxjs/redux-essentials-counter-example/tree/master/?from-embed)
 
-## redux  코어 설치
-참조 [Store 생성](https://ko.redux.js.org/tutorials/essentials/part-1-overview-concepts/)
-
-## App 전역 Provider에 등록
-참조 [Provider에 등록](https://codesandbox.io/s/github/reduxjs/redux-essentials-counter-example/tree/master/?from-embed=&file=/src/index.js:141-180)
-
-## Redux State Slice 생성하기
-참조 [createSlice](https://redux-toolkit.js.org/api/createSlice)
