@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 패키지 시작하기
 ### `npm start`
 
+## Redux 공식 문서
 redux 공식문서 [redux.js.org](https://ko.redux.js.org)
 
 ## redux  코어 설치
